@@ -75,5 +75,4 @@ Time/Space complexity:
 - Insertion: O(1) average O(n) worst
 - Deletion: O(1) average O(n) worst
 
-eg. Python dict data type is a hash table
-
+eg. Python dict data type is a hash table 
