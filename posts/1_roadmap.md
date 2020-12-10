@@ -152,21 +152,3 @@ My goal as a developer:
 4. Not much knowledge here ...
 
 ***
-The best way to learn is to code. 
-
-Try a side project, do TryHackMe tasks, solve coding problems. 
-
-Even if everyone is doing it, I still have to do it.
-
-I need to recap the basics. 
-
-A strong fundamental will let me stay put in any circumstances.
-
-Learning is infinite.
-
-
-Coding is a form of collective art. 
-
-Just like a movie, or a video game.
-
-I can build whatever I want.
