@@ -1,3 +1,4 @@
+*[GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)*
 # Selection Sort
 
 - sorts an array by repeatedly finding the smallest element from the unsorted sub array and placing it at the beginning
