@@ -28,6 +28,7 @@ print(array) # [1, 31, 31, 32, 36, 52, 64]
 ```
 
 Time complexity: O(n^2)
+
 Auxiliary Space: O(1) [Will never make more than O(n) swaps, useful when memory write is a restriction]
 
 #### Stable Selection Sort
