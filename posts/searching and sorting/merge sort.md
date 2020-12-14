@@ -36,6 +36,7 @@ def mergeSort(arr):
                 j+= 1
             k += 1
         
+        # add remaining elements
         while i < len(left):
             arr[k] = left[i]
             i += 1
@@ -51,7 +52,7 @@ mergeSort(array)
 print(array) # [1, 2, 3, 5, 32 42, 55]
 ```
 
-- Time complexity: θ(n log n) (because merger sort will always divide the array in half and take linear time to merge the sub array)
+- Time complexity: θ(n log n) (because merge sort will always divide the array in half and take linear time to merge the sub array)
 - Auxiliary Space: O(n)
 - Inplace: False
 - Stable: Yes
