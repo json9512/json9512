@@ -38,4 +38,6 @@ def egyptianFraction(nr, dr):
             print("1/{}".format(denomitators[i]))
 
 egyptianFraction(6, 14)
+# The egyptian fraction representation of 6/14 is
+# 1/3 + 1/11 + 1/231
 ```
