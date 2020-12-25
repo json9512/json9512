@@ -10,4 +10,5 @@ Some algorithms that are greedy:
 3. Dijkstra's shortest path: similar to prim's algorithm, picks the smallest weighted edge that connects two sets and is on the smallest weight path from source
 4. Huffman Coding: lossless compression technique, assigns the least bit length code to the most frequent character
 
-
+# More
+- [Activity Selection](https://github.com/json9512/json9512/blob/main/posts/algorithms/activity%20selection.md)
