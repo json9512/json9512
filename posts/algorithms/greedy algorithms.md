@@ -12,3 +12,4 @@ Some algorithms that are greedy:
 
 # More
 - [Activity Selection](https://github.com/json9512/json9512/blob/main/posts/algorithms/activity%20selection.md)
+- [Egyptian Fractions](https://github.com/json9512/json9512/blob/main/posts/algorithms/Egyptian%20Fraction.md)
