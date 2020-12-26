@@ -46,7 +46,7 @@ Can be optimized to stop algorithm when inner loop does not cause a swap
 
 Time complexity:
 
-- Worst and Average: O(n*m) [Worst case when array is reverse sorted]
+- Worst and Average: O(n*m) [if optimized with 'swapped' boolean;Worst case when array is reverse sorted]
 - Best case: O(n) [Best case when array is sorted]
 - Auxiliary Space: O(1)
 - Inplace: True
