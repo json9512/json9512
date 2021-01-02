@@ -56,5 +56,5 @@ print(array) # [1, 2, 3, 5, 32 42, 55]
 - Auxiliary Space: O(n)
 - Inplace: False
 - Stable: Yes
-- Good for external sorting
+- Good for [external sorting](https://github.com/json9512/json9512/blob/main/posts/searching%20and%20sorting/external%20sorting.md)
 
