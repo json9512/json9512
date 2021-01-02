@@ -1,9 +1,9 @@
 ### Hi there 👋
 ***
 
-🔭 I’m currently working on: *a side project [json9512/mediumclone](https://github.com/json9512/mediumclone)*
+🔭 I’m currently working on: *the basics of CS*
 
-🌱 I’m currently learning: *nodejs | docker | aws*
+🌱 I’m currently learning: *Python | Algorithms | Data structure*
 
 📫 How to reach me: [json9512@gmail.com](mailto:json9512@gmail.com)
 ***
