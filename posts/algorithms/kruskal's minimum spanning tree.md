@@ -11,3 +11,4 @@
 2. Pick the smallest edge. Check if it forms a cycle ([Union-Find algorithm](https://github.com/json9512/json9512/blob/main/posts/algorithms/Union-find.md)) with the spanning tree formed so far. If cycle is not formed include the edge. Else, discard it
 3. Repeat step 2 until there are (V-1) edges in the spanning tree
 
+Time complexity: O(E log E) or O(E log V)
