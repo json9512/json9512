@@ -118,4 +118,7 @@ if __name__ == "__main__":
     #     2(c)
 ```
 
+Time complexity: O(|V|^2) where V is the number of vertices. 
+
+- can be optimized to O(E log V) if graph is given as adjacency matrix. [source](https://www.geeksforgeeks.org/prims-mst-for-adjacency-list-representation-greedy-algo-6/)
 
