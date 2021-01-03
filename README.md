@@ -1,11 +1,16 @@
-### Hi there 👋
+
+
+[![image](https://img.shields.io/badge/Email-json9512%40gmail.com-success)](mailto:json9512@gmail.com)
+[![image](https://img.shields.io/badge/Blog-json9512.github.io-green)](https://json9512.github.io/blog/)
+[![image](https://img.shields.io/badge/LinkedIn-Junghyun%20Son-brightgreen)](https://www.linkedin.com/in/junghyun-son/)
+
+
+
 ***
 
 🔭 I’m currently working on: *the basics of CS*
 
 🌱 I’m currently learning: *Python | Algorithms | Data structure*
-
-📫 How to reach me: [json9512@gmail.com](mailto:json9512@gmail.com)
 ***
 
 ### Tech
