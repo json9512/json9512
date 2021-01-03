@@ -5,9 +5,6 @@
 [![image](https://img.shields.io/badge/LinkedIn-Junghyun%20Son-brightgreen)](https://www.linkedin.com/in/junghyun-son/)
 
 
-
-***
-
 🔭 I’m currently working on: *the basics of CS*
 
 🌱 I’m currently learning: *Python | Algorithms | Data structure*
