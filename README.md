@@ -12,36 +12,36 @@
 
 ### Tech
 
-![](https://img.shields.io/badge/python-⭐⭐⭐-black?logo=python&style=for-the-badge)
-![](https://img.shields.io/badge/javascript-⭐⭐-black?logo=javascript&style=for-the-badge)
-![](https://img.shields.io/badge/go-⭐⭐-black?logo=go&style=for-the-badge)
+![](https://img.shields.io/badge/python-⭐⭐⭐-black?logo=python&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/javascript-⭐⭐-black?logo=javascript&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/go-⭐⭐-black?logo=go&style=for-the-badge&&labelColor=9cf)
 
-![](https://img.shields.io/badge/react-⭐⭐-black?logo=react&style=for-the-badge)
-![](https://img.shields.io/badge/node.js-⭐⭐-black?logo=node.js&style=for-the-badge)
-![](https://img.shields.io/badge/django-⭐-black?logo=django&style=for-the-badge)
-![](https://img.shields.io/badge/tensorflow-⭐-black?logo=tensorflow&style=for-the-badge)
+![](https://img.shields.io/badge/react-⭐⭐-black?logo=react&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/node.js-⭐⭐-black?logo=node.js&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/django-⭐-black?logo=django&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/tensorflow-⭐-black?logo=tensorflow&style=for-the-badge&&labelColor=9cf)
 
-![](https://img.shields.io/badge/postgresql-⭐⭐-black?logo=postgresql&style=for-the-badge)
-![](https://img.shields.io/badge/redis-⭐-black?logo=redis&style=for-the-badge)
+![](https://img.shields.io/badge/postgresql-⭐⭐-black?logo=postgresql&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/redis-⭐-black?logo=redis&style=for-the-badge&&labelColor=9cf)
 
-![](https://img.shields.io/badge/docker-⭐⭐-black?logo=docker&style=for-the-badge)
+![](https://img.shields.io/badge/docker-⭐⭐-black?logo=docker&style=for-the-badge&&labelColor=9cf)
 
 
-![](https://img.shields.io/badge/github%20actions-⭐⭐-black?logo=github-actions&style=for-the-badge)
-![](https://img.shields.io/badge/travis%20ci-⭐⭐-black?logo=travis-ci&style=for-the-badge)
+![](https://img.shields.io/badge/github%20actions-⭐⭐-black?logo=github-actions&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/travis%20ci-⭐⭐-black?logo=travis-ci&style=for-the-badge&&labelColor=9cf)
 
-![](https://img.shields.io/badge/amazon%20aws-⭐⭐-black?logo=amazon-aws&style=for-the-badge)
-![](https://img.shields.io/badge/heroku-⭐⭐-black?logo=heroku&style=for-the-badge)
+![](https://img.shields.io/badge/amazon%20aws-⭐⭐-black?logo=amazon-aws&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/heroku-⭐⭐-black?logo=heroku&style=for-the-badge&&labelColor=9cf)
 
-![](https://img.shields.io/badge/github-⭐⭐-black?logo=github&style=for-the-badge)
-![](https://img.shields.io/badge/bitbucket-⭐-black?logo=bitbucket&style=for-the-badge)
+![](https://img.shields.io/badge/github-⭐⭐-black?logo=github&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/bitbucket-⭐-black?logo=bitbucket&style=for-the-badge&&labelColor=9cf)
 
-![](https://img.shields.io/badge/windows-⭐⭐-black?logo=windows&style=for-the-badge)
-![](https://img.shields.io/badge/linux-⭐⭐-black?logo=linux&style=for-the-badge)
+![](https://img.shields.io/badge/windows-⭐⭐-black?logo=windows&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/linux-⭐⭐-black?logo=linux&style=for-the-badge&&labelColor=9cf)
 
-![](https://img.shields.io/badge/slack-⭐⭐-black?logo=slack&style=for-the-badge)
-![](https://img.shields.io/badge/trello-⭐-black?logo=trello&style=for-the-badge)
-![](https://img.shields.io/badge/asana-⭐-black?logo=asana&style=for-the-badge)
+![](https://img.shields.io/badge/slack-⭐⭐-black?logo=slack&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/trello-⭐-black?logo=trello&style=for-the-badge&&labelColor=9cf)
+![](https://img.shields.io/badge/asana-⭐-black?logo=asana&style=for-the-badge&&labelColor=9cf)
 
 ****
 [![json9512's github stats](https://github-readme-stats.vercel.app/api?username=json9512&theme=tokyonight&show_icons=true)](https://github.com/json9512/json9512)
