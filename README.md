@@ -1,8 +1,8 @@
 
 
-[![image](https://img.shields.io/badge/Email-json9512%40gmail.com-07040A?labelColor=07040A)](mailto:json9512@gmail.com)
-[![image](https://img.shields.io/badge/Blog-json9512.github.io-07040A?labelColor=07040A)](https://json9512.github.io/blog/)
-[![image](https://img.shields.io/badge/LinkedIn-Junghyun%20Son-07040A?labelColor=07040A)](https://www.linkedin.com/in/junghyun-son/)
+[![image](https://img.shields.io/badge/json9512%40gmail.com-07040A?logo=gmail&&labelColor=07040A)](mailto:json9512@gmail.com)
+[![image](https://img.shields.io/badge/json9512.github.io-07040A?logo=jekyll&&labelColor=07040A)](https://json9512.github.io/blog/)
+[![image](https://img.shields.io/badge/Junghyun%20Son-07040A?logo=linkedin&&labelColor=07040A)](https://www.linkedin.com/in/junghyun-son/)
 [![image](https://img.shields.io/badge/resume-Junghyun%20Son-07040A?labelColor=07040A)](https://drive.google.com/file/d/1pi3Vj4JTPZQJM2XJtJmHJtiLyNPba2dq/view?usp=sharing)
 
 
