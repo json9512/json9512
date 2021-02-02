@@ -12,62 +12,36 @@
 
 ### Tech
 
-#### Tools | OS | Framework | Database
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/) **|** 
-[<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/fluent/2x/windows-10.png">
-</code>](https://www.microsoft.com/) **|** 
-[<code>
-<img alt="pug" width="26px" src="https://img.icons8.com/fluent/2x/pug.png">
-</code>](https://www.pugjs.org/)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/plasticine/2x/react.png">
-</code>](https://www.reactjs.org/) **|** 
-[<code>
-<img alt="django" width="26px" src="https://img.icons8.com/color/344/django.png">
-</code>](https://www.djangoproject.com/)
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/) **|** 
-[<code>
-<img alt="docker" width="26px" src="https://img.icons8.com/color/2x/docker.png">
-</code>](https://www.docker.com/)
-[<code>
-<img alt="travis-ci" width="26px" src="https://img.icons8.com/color/2x/travis-ci.png">
-</code>](https://www.travis-ci.org/) **|** 
-[<code>
-<img alt="tensorflow" width="26px" src="https://img.icons8.com/color/2x/tensorflow.png">
-</code>](https://www.tensorflow.org/) **|** 
-[<code>
-<img alt="postgresql" width="26px" src="https://img.icons8.com/color/96/000000/postgresql.png">
-</code>](https://www.postgresql.org/)
+![](https://img.shields.io/badge/python-⭐⭐⭐-black?logo=python&style=for-the-badge)
+![](https://img.shields.io/badge/javascript-⭐⭐-black?logo=javascript&style=for-the-badge)
+![](https://img.shields.io/badge/go-⭐⭐-black?logo=go&style=for-the-badge)
+
+![](https://img.shields.io/badge/react-⭐⭐-black?logo=react&style=for-the-badge)
+![](https://img.shields.io/badge/node.js-⭐⭐-black?logo=node.js&style=for-the-badge)
+![](https://img.shields.io/badge/django-⭐-black?logo=django&style=for-the-badge)
+![](https://img.shields.io/badge/tensorflow-⭐-black?logo=tensorflow&style=for-the-badge)
+
+![](https://img.shields.io/badge/postgresql-⭐⭐-black?logo=postgresql&style=for-the-badge)
+![](https://img.shields.io/badge/redis-⭐-black?logo=redis&style=for-the-badge)
+
+![](https://img.shields.io/badge/docker-⭐⭐-black?logo=docker&style=for-the-badge)
 
 
+![](https://img.shields.io/badge/github%20actions-⭐⭐-black?logo=github-actions&style=for-the-badge)
+![](https://img.shields.io/badge/travis%20ci-⭐⭐-black?logo=travis-ci&style=for-the-badge)
 
+![](https://img.shields.io/badge/amazon%20aws-⭐⭐-black?logo=amazon-aws&style=for-the-badge)
+![](https://img.shields.io/badge/heroku-⭐⭐-black?logo=heroku&style=for-the-badge)
 
+![](https://img.shields.io/badge/github-⭐⭐-black?logo=github&style=for-the-badge)
+![](https://img.shields.io/badge/bitbucket-⭐-black?logo=bitbucket&style=for-the-badge)
 
+![](https://img.shields.io/badge/windows-⭐⭐-black?logo=windows&style=for-the-badge)
+![](https://img.shields.io/badge/linux-⭐⭐-black?logo=linux&style=for-the-badge)
 
-#### Language
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+![](https://img.shields.io/badge/slack-⭐⭐-black?logo=slack&style=for-the-badge)
+![](https://img.shields.io/badge/trello-⭐-black?logo=trello&style=for-the-badge)
+![](https://img.shields.io/badge/asana-⭐-black?logo=asana&style=for-the-badge)
 
 ****
 [![json9512's github stats](https://github-readme-stats.vercel.app/api?username=json9512&theme=tokyonight&show_icons=true)](https://github.com/json9512/json9512)
