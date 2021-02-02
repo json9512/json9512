@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/json9512%40gmail.com-white?logo=gmail&&labelColor=white)](mailto:json9512@gmail.com)
 [![image](https://img.shields.io/badge/json9512.github.io-white?logo=jekyll&&labelColor=white&&logoColor=black)](https://json9512.github.io/blog/)
 [![image](https://img.shields.io/badge/Junghyun%20Son-white?logo=linkedin&&labelColor=white&&logoColor=black)](https://www.linkedin.com/in/junghyun-son/)
-[![image](https://img.shields.io/badge/resume-Junghyun%20Son-white?labelColor=white&&logoColor=black)](https://drive.google.com/file/d/1pi3Vj4JTPZQJM2XJtJmHJtiLyNPba2dq/view?usp=sharing)
+[![image](https://img.shields.io/badge/resume-Junghyun%20Son-white?labelColor=white&&logoColor=black)](https://drive.google.com/file/d/17cc3m66kqiFHqxQPk_8vHqgpC4-iyH1m/view?usp=sharing)
 
 
 🔭 I’m currently working on: *Medium clone backend with golang*
