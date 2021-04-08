@@ -10,7 +10,7 @@
 
 💬 I’m currently learning: *Python | CS fundamental*
 
-🌱 I plan to study: *R | AWS practitioner essentials*
+🌱 I plan to study: *AWS practitioner essentials*
 ***
 
 ### Tech
