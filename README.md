@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/json9512%40gmail.com-white?style=flat-square&logo=gmail&&labelColor=white)](mailto:json9512@gmail.com)
 [![image](https://img.shields.io/badge/json9512.github.io-white?style=flat-square&logo=jekyll&&labelColor=white&&logoColor=black)](https://json9512.github.io/blog/)
 [![image](https://img.shields.io/badge/Junghyun%20Son-white?style=flat-square&logo=linkedin&&labelColor=white&&logoColor=black)](https://www.linkedin.com/in/junghyun-son/)
-[![image](https://img.shields.io/badge/resume-white?style=flat-square&logo=notion&&labelColor=white&&logoColor=black)](https://www.notion.so/c3b7b239bedb45c5a8aec05c2ee8d455)
+[![image](https://img.shields.io/badge/resume-white?style=flat-square&logo=notion&&labelColor=white&&logoColor=black)](https://www.notion.so/Junghyun-Son-8ab4484a04cd420bacb7e869aa593796)
 
 
 🔭 I’m currently working on: *1-min-study-card*
