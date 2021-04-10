@@ -6,9 +6,9 @@
 [![image](https://img.shields.io/badge/resume-white?style=flat-square&logo=google-drive&&labelColor=white&&logoColor=black)](https://drive.google.com/file/d/1mMHBYREYn61QcIEUlqts8pMfPuZ4xvkE/view?usp=sharing)
 
 
-🔭 I’m currently working on: *Medium clone backend with golang*
+🔭 I’m currently working on: *1-min-study-card*
 
-💬 I’m currently learning: *Python | CS fundamental*
+💬 I’m currently learning: *Golang | Python | CS fundamental*
 
 🌱 I plan to study: *AWS practitioner essentials*
 ***
