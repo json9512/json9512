@@ -14,30 +14,28 @@
 ***
 
 ### Tech
->*Stars indicate how often I use the item*
+![](https://img.shields.io/badge/python--white?logo=python&style=for-the-badge&&labelColor=white&&logoColor=)
+![](https://img.shields.io/badge/javascript--white?logo=javascript&style=for-the-badge&&labelColor=white&&logoColor=)
+![](https://img.shields.io/badge/go--white?logo=go&style=for-the-badge&&labelColor=white&&logoColor=)
 
-![](https://img.shields.io/badge/python-⭐⭐⭐-white?logo=python&style=for-the-badge&&labelColor=white&&logoColor=)
-![](https://img.shields.io/badge/javascript-⭐⭐★-white?logo=javascript&style=for-the-badge&&labelColor=white&&logoColor=)
-![](https://img.shields.io/badge/go-⭐⭐★-white?logo=go&style=for-the-badge&&labelColor=white&&logoColor=)
+![](https://img.shields.io/badge/react-white?logo=react&style=for-the-badge&&labelColor=white&&logoColor=)
+![](https://img.shields.io/badge/node.js--white?logo=node.js&style=for-the-badge&&labelColor=white&&logoColor=)
 
-![](https://img.shields.io/badge/react-⭐⭐★-white?logo=react&style=for-the-badge&&labelColor=white&&logoColor=)
-![](https://img.shields.io/badge/node.js-⭐⭐★-white?logo=node.js&style=for-the-badge&&labelColor=white&&logoColor=)
+![](https://img.shields.io/badge/postgresql--white?logo=postgresql&style=for-the-badge&&labelColor=white&&logoColor=black)
 
-![](https://img.shields.io/badge/postgresql-⭐⭐★-white?logo=postgresql&style=for-the-badge&&labelColor=white&&logoColor=black)
-
-![](https://img.shields.io/badge/docker-⭐⭐★-white?logo=docker&style=for-the-badge&&labelColor=white&&logoColor=)
+![](https://img.shields.io/badge/docker--white?logo=docker&style=for-the-badge&&labelColor=white&&logoColor=)
 
 
-![](https://img.shields.io/badge/github%20actions-⭐⭐★-white?logo=github-actions&style=for-the-badge&&labelColor=white&&logoColor=)
+![](https://img.shields.io/badge/github%20actions--white?logo=github-actions&style=for-the-badge&&labelColor=white&&logoColor=)
 
-![](https://img.shields.io/badge/amazon%20aws-⭐⭐★-white?logo=amazon-aws&style=for-the-badge&&labelColor=white&&logoColor=black)
+![](https://img.shields.io/badge/amazon%20aws--white?logo=amazon-aws&style=for-the-badge&&labelColor=white&&logoColor=black)
 
-![](https://img.shields.io/badge/github-⭐⭐★-white?logo=github&style=for-the-badge&&labelColor=white&&logoColor=black)
+![](https://img.shields.io/badge/github--white?logo=github&style=for-the-badge&&labelColor=white&&logoColor=black)
 
-![](https://img.shields.io/badge/windows-⭐⭐★-white?logo=windows&style=for-the-badge&&labelColor=white&&logoColor=black)
-![](https://img.shields.io/badge/linux-⭐⭐★-white?logo=linux&style=for-the-badge&&labelColor=white&&logoColor=black)
+![](https://img.shields.io/badge/windows--white?logo=windows&style=for-the-badge&&labelColor=white&&logoColor=black)
+![](https://img.shields.io/badge/linux--white?logo=linux&style=for-the-badge&&labelColor=white&&logoColor=black)
 
-![](https://img.shields.io/badge/slack-⭐⭐★-white?logo=slack&style=for-the-badge&&labelColor=white&&logoColor=black)
+![](https://img.shields.io/badge/slack--white?logo=slack&style=for-the-badge&&labelColor=white&&logoColor=black)
 ****
 [![json9512's github stats](https://github-readme-stats.vercel.app/api?username=json9512&theme=tokyonight&show_icons=true)](https://github.com/json9512/json9512)
 
