@@ -20,6 +20,7 @@
 
 ![](https://img.shields.io/badge/react--white?logo=react&style=for-the-badge&&labelColor=white&&logoColor=)
 ![](https://img.shields.io/badge/node.js--white?logo=node.js&style=for-the-badge&&labelColor=white&&logoColor=)
+![](https://img.shields.io/badge/gin--white?logo=&style=for-the-badge&&labelColor=white&&logoColor=)
 
 ![](https://img.shields.io/badge/postgresql--white?logo=postgresql&style=for-the-badge&&labelColor=white&&logoColor=black)
 
