@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/javascript--white?logo=javascript&style=for-the-badge&&labelColor=white&&logoColor=)
 ![](https://img.shields.io/badge/go--white?logo=go&style=for-the-badge&&labelColor=white&&logoColor=)
 
-![](https://img.shields.io/badge/react-white?logo=react&style=for-the-badge&&labelColor=white&&logoColor=)
+![](https://img.shields.io/badge/react--white?logo=react&style=for-the-badge&&labelColor=white&&logoColor=)
 ![](https://img.shields.io/badge/node.js--white?logo=node.js&style=for-the-badge&&labelColor=white&&logoColor=)
 
 ![](https://img.shields.io/badge/postgresql--white?logo=postgresql&style=for-the-badge&&labelColor=white&&logoColor=black)
