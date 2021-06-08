@@ -6,11 +6,11 @@
 [![image](https://img.shields.io/badge/resume-white?style=flat-square&logo=notion&&labelColor=white&&logoColor=black)](https://www.notion.so/Junghyun-Son-8ab4484a04cd420bacb7e869aa593796)
 
 
-🔭 I’m currently working on: *1-min-study-card*
+🔭 I’m currently working on: 
 
 💬 I’m currently learning: *Golang | Python | CS fundamental*
 
-🌱 I plan to study: *AWS practitioner essentials*
+🌱 I plan to study: 
 ***
 
 ### Tech
