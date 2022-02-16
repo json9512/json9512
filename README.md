@@ -12,7 +12,6 @@
 ### Interests
 ![](https://img.shields.io/badge/angel%20list--white?logo=angellist&style=for-the-badge&&labelColor=white&&logoColor=black)
 ![](https://img.shields.io/badge/ethereum--white?logo=ethereum&style=for-the-badge&&labelColor=white&&logoColor=black)
-![](https://img.shields.io/badge/roblox--white?logo=roblox&style=for-the-badge&&labelColor=white&&logoColor=black)
 ![](https://img.shields.io/badge/premier%20league--white?logo=premierleague&style=for-the-badge&&labelColor=white&&logoColor=black)
 ![](https://img.shields.io/badge/rust--white?logo=rust&style=for-the-badge&&labelColor=white&&logoColor=black)
 
@@ -28,11 +27,11 @@
 ![](https://img.shields.io/badge/node.js--white?logo=node.js&style=for-the-badge&&labelColor=white&&logoColor=)
 
 #### Frameworks and Libraries
-![](https://img.shields.io/badge/react--white?logo=react&style=for-the-badge&&labelColor=white&&logoColor=)
-![](https://img.shields.io/badge/next.js--white?logo=next.js&style=for-the-badge&&labelColor=white&&logoColor=)
-![](https://img.shields.io/badge/nestjs--white?logo=nestjs&style=for-the-badge&&labelColor=white&&logoColor=)
-![](https://img.shields.io/badge/gin--white?logo=&style=for-the-badge&&labelColor=white&&logoColor=)
-![](https://img.shields.io/badge/flask--white?logo=flask&style=for-the-badge&&labelColor=white&&logoColor=)
+![](https://img.shields.io/badge/react--white?logo=react&style=for-the-badge&&labelColor=white&&logoColor=black)
+![](https://img.shields.io/badge/next.js--white?logo=next.js&style=for-the-badge&&labelColor=white&&logoColor=black)
+![](https://img.shields.io/badge/nestjs--white?logo=nestjs&style=for-the-badge&&labelColor=white&&logoColor=black)
+![](https://img.shields.io/badge/gin--white?logo=&style=for-the-badge&&labelColor=white&&logoColor=black)
+![](https://img.shields.io/badge/flask--white?logo=flask&style=for-the-badge&&labelColor=white&&logoColor=black)
 
 #### Storage and DBMS
 ![](https://img.shields.io/badge/postgresql--white?logo=postgresql&style=for-the-badge&&labelColor=white&&logoColor=black)
