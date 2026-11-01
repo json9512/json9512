@@ -9,8 +9,6 @@ Seoul, Korea · Go · TypeScript · React / Next.js · Swift · Expo · Python �
 | | What it is | Built with |
 |---|---|---|
 | [**sshido**](https://sshido.com) | An iOS and iPadOS terminal for driving AI coding agents from your phone: SSH, a tmux session per agent, and a push alert when the agent finishes or needs input. [Status](https://status.sshido.com) · [Repo](https://github.com/json9512/sshido) | Swift, Go |
-| [**koreaeventsnow.com**](https://koreaeventsnow.com) | A guide to events in Korea for foreign visitors, generated from official Korean public event data. | Go, Cloudflare Pages |
-| [**dallok.app**](https://dallok.app) | An invite-only group photo game: one color a day, unfiltered photos, a collage at midnight. | Hono on Cloudflare Workers, D1, R2, Expo (iOS) |
 
 ## Work
 
