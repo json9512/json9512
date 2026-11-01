@@ -20,4 +20,4 @@ Bachelor of Information Technology (Computer Science), with Distinction · Queen
 
 ## Contact
 
-[json9512@gmail.com](mailto:contact@zson.dev) · [LinkedIn](https://www.linkedin.com/in/junghyun-son/)
+[contact@zson.dev](mailto:contact@zson.dev) · [LinkedIn](https://www.linkedin.com/in/junghyun-son/)
