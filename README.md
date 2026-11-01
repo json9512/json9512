@@ -1,4 +1,4 @@
-# Daniel Junghyun Son
+# Junghyun Son
 
 I build web apps, apps, backend, firmwares for startups that tackle complex problems.
 
@@ -20,4 +20,4 @@ Bachelor of Information Technology (Computer Science), with Distinction · Queen
 
 ## Contact
 
-[json9512@gmail.com](mailto:json9512@gmail.com) · [LinkedIn](https://www.linkedin.com/in/junghyun-son/)
+[json9512@gmail.com](mailto:contact@zson.dev) · [LinkedIn](https://www.linkedin.com/in/junghyun-son/)
